@@ -1,0 +1,29 @@
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(2,'2021-11-04', 20.5, 'M', 'Shoe', 900, 3, 'summer', 'https://m.media-amazon.com/images/I/41Leu3gBUFL.jpg');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(3,'2022-04-23', 10.5, 'F', 'Shoe', 1800, 4, 'summer', 'https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/15354240/2021/9/3/63b2c70f-40a9-4fdc-b560-fd345cbbff851630676837870TWINTOESWomenWhiteSneakers1.jpg');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(4,'2019-04-04', 18.5, 'M', 'Jeans', 2400, 5, 'winter', 'https://image.made-in-china.com/44f3j00EwmaBwdINJoA/New-Arrival-Men-s-Fashion-Pantalones-Jeans-Skinny-Light-Blue-Ripped-Denim-Jeans-for-Men.jpg');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(5,'2022-04-18', 5.5, 'M', 'Jeans', 2999, 7, 'summer', 'https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/20667/181791/Black-Jeans-Men-Winter-Autumn-Stretch-Denim-Jeans-Man-Elastic-Casual-Slim-Jean-Pants-Male-Quality__02771.1545632907.jpg?c=2?imbypass=on');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(6,'2021-10-20', 0.0, 'F', 'Jeans', 3400, 5, 'summer', 'https://pyxis.nymag.com/v1/imgs/2c9/aa1/ae82b633ccd4cdb95b2e32f2cf47b42cf9-abercrombie.2x.rdeep-vertical.w245.png');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(7,'2022-03-20', 10.0, 'M', 'Shirt', 1500, 8, 'summer', 'https://assets.ajio.com/medias/sys_master/root/20210403/ywxs/60686961f997dd7b645dbf0c/-473Wx593H-461119026-black-MODEL.jpg');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(8,'2021-02-20', 20.0, 'M', 'Shirt', 800, 10, 'winter', 'https://imgmedia.lbb.in/media/2020/05/5eac0e7c833b2b7acdc583b2_1588334204878.jpg');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(9,'2022-04-20', 9.5, 'F', 'Shirt', 2500, 15, 'summer', 'https://rukminim2.flixcart.com/image/332/398/jwwffrk0/shirt/r/g/j/m-8816777-roadster-original-imafhh82tgnsz5gn.jpeg?q=50');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(10,'2021-06-20', 5, 'F', 'Dress', 8500, 6, 'summer', 'https://ae01.alicdn.com/kf/Had040d6b16e245aeb43b193e946ab97bN/French-Floral-Dress-Women-Sexy-Puff-Sleeve-Lace-Chiffon-Print-Mini-Dress-Women-Summer-Korean-Style.jpg_Q90.jpg_.webp');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(11,'2022-02-25', 5, 'F', 'Dress', 4500, 4, 'summer', 'https://i.pinimg.com/736x/7a/dd/3f/7add3f4cfadaf58919d80d16ecd38dec.jpg');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(12,'2022-04-15', 8.5, 'F', 'Dress', 5500, 2, 'winter', 'https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/9406989/2020/3/12/281c3024-1f40-4d04-b06d-75f6a13a62321584001119012-her-by-invictus-Women-Pink-Solid-Sheath-Dress-44715840011178-1.jpg');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(13,'2022-04-20', 0, 'M', 'Blazer', 7500, 3, 'summer', 'https://5.imimg.com/data5/NY/DL/MY-63369146/blazers-500x500.jpg');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(14,'2021-11-20', 0, 'F', 'Sweater', 1500, 7, 'winter', 'https://media-cldnry.s-nbcnews.com/image/upload/t_fit-720w,f_auto,q_auto:best/newscms/2021_37/1775087/51r4a6cw-fl-sl500--61424495bc5d8.jpg');
+
+insert into items(item_id,arrival_date,discount,gender,name,price,quantity,season,url) values(15,'2022-04-20', 7.5, 'M', 'Sweater', 2500, 3, 'winter', 'https://img.joomcdn.net/66e1ec94874a9a2789222e42196f6aa49008dea3_original.jpeg');
+
+
